@@ -1,0 +1,26 @@
+" self explanatory
+syntax enable
+
+" Insert space characters whenever tab key is set
+set expandtab
+
+" Tab characters are 4 spaces wide
+set tabstop=4
+
+" Applies indentation of current line to the next line
+set autoindent
+
+" Turns on line numbering
+set number
+
+" Shows character position in right corner of screen
+set ruler
+
+" Shows command on last line of screen.
+set showcmd
+
+" Highlights the screen line of the cursor.
+set cursorline
+
+" When curosr is placed over bracket, the other bracket is highlighted.
+set showmatch
