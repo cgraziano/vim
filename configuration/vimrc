@@ -7,6 +7,9 @@ set expandtab
 " Tab characters are 4 spaces wide
 set tabstop=4
 
+" Set number of spaces to indent with Shift + > command
+set shiftwidth=4
+
 " Applies indentation of current line to the next line
 set autoindent
 
